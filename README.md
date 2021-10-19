@@ -4,6 +4,6 @@
 
 get as many cookies as possible and buy more buildings
 
-##control
+## control
 
 click the cookie to get more cookies
