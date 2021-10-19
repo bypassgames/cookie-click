@@ -11,3 +11,7 @@ click the cookie to get more cookies click the building to get more cookies per 
 ## version
 
 this is version 1.044
+
+## screenshot
+
+![title screen]https://slopeunblocked.online/upload/imgs/cookie-clicker.jpg
